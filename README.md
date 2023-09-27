@@ -1,12 +1,13 @@
-
+<img src="https://th.bing.com/th/id/R.5973b28b64645abb85bf02a23becba7b?rik=VJExa5dGpPq4XQ&pid=ImgRaw&r=0" alt="" align="right" with="100px" height="200px">
 <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" alt="" align="right">
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHOnx_77siGUw/company-logo_200_200/0/1624457278047?e=2159024400&v=beta&t=v42FMvMMI7mw8sYdyxUsse24VNwfKlXv573NroUVD3A" alt="" align="right">
+
 <h1 align="center">Hi 👋, I'm Ayoub Bouagna</h1>
 <h3 align="center">A passionate frontend / back end / Devops developer from Morocco I'm student at ALx africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyper-ayoub&label=Profile%20views&color=0e75b6&style=flat" alt="hyper-ayoub" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ayoubbouagna" target="blank"><img src="https://img.shields.io/twitter/follow/ayoubbouagna?logo=twitter&style=for-the-badge" alt="ayoubbouagna" /></a> </p>
-
 - 🌱 I’m currently learning **html css javascript c Linux / shell**
 
 - 💬 Ask me about **frontend / back end / Devops**
