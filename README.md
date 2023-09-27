@@ -1,4 +1,3 @@
-<img src="https://th.bing.com/th/id/R.5973b28b64645abb85bf02a23becba7b?rik=VJExa5dGpPq4XQ&pid=ImgRaw&r=0" alt="" align="right" with="100px" height="200px">
 <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" alt="" align="right">
 <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHOnx_77siGUw/company-logo_200_200/0/1624457278047?e=2159024400&v=beta&t=v42FMvMMI7mw8sYdyxUsse24VNwfKlXv573NroUVD3A" alt="" align="right">
 
