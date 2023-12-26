@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bouagnaayoub@gmail.com**
 
-- 📄 Know about my experiences [frontend / back end / Devops](frontend / back end / Devops)
+- 📄 Know about my experiences [frontend / back end / Devops]
 
 - ⚡ Fun fact **😎🧐✔💻**
 
