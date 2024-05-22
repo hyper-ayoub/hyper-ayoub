@@ -29,7 +29,15 @@
     <img align=center src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="30" height="40" alt="telegram logo"  /> 
 </a> <div>
 <a href="https://medium.com/@bouagnaayoub">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /> 
+  
+<a href="https://dev.to/ayoub_bouagna_95173db72b6">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  
+</a>
+<a href="https://join.slack.com/t/equipejasper/shared_invite/zt-2j3rg45tj-iTjF2Qe3zWw1oCddTYSSCA">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="40" alt="slack logo"  />
+  
 </a>
 </div>
 </p>
