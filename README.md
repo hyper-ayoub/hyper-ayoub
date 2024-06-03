@@ -4,7 +4,9 @@
 <h3 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕 / 𝔹𝕒𝕔𝕜 𝕖𝕟𝕕 / 𝔻𝕖𝕧𝕠𝕡𝕤 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 𝕄𝕠𝕣𝕠𝕔𝕔𝕠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyper-ayoub&label=Profile%20views&color=0e75b6&style=flat" alt="hyper-ayoub" /> </p>
-
+<a href="https://linktr.ee/hyperayoub" target="_blank">
+    <img src="https://private-user-images.githubusercontent.com/24565896/296851205-1b3dcdea-e745-4c02-85c9-1de315f2ea3b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc0NDI4OTUsIm5iZiI6MTcxNzQ0MjU5NSwicGF0aCI6Ii8yNDU2NTg5Ni8yOTY4NTEyMDUtMWIzZGNkZWEtZTc0NS00YzAyLTg1YzktMWRlMzE1ZjJlYTNiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAzVDE5MjMxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzODI3MzEyOWQ5YmJlNTI2ZGVmNGQ1YTIxYzUzYmU1YmEwNTc1ZDViOWFkMDVjNDg2YjU1MDczNjEyZWY2YWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.H673W3zB5cAZj8UBN-vBrhZWL0xjghmCWWPCMU5rxbM" alt="nuux_tv" style="max-width: 100%;">
+</a>
 <p align="left"> <a href="https://twitter.com/ayoubbouagna" target="blank"><img src="https://img.shields.io/twitter/follow/ayoubbouagna?logo=twitter&style=for-the-badge" alt="ayoubbouagna" /></a> </p>
 
 - 🌱 I’m currently learning **html css javascript c Linux / shell**
