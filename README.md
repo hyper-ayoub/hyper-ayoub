@@ -45,6 +45,9 @@
  <a href="https://learn.microsoft.com/fr-fr/users/ayoubbouagna-2288/" target="blank">
    <img src="https://img.icons8.com/?size=100&id=22989&format=png&color=000000" width="40" height="40" alt="medium logo"  /> 
  </a>
+   <a href="https://profile.indeed.com/p/ayoubb-sl1w8jx" target="blan">
+   <img src="https://img.icons8.com/?size=100&id=ehjUasU0xZbR&format=png&color=000000" width="40" height="40" alt="indeed logo"  /> 
+ </a>
 </div>
 </p>
 <h3 align="left">Languages and Tools:</h3>
