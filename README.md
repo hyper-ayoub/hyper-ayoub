@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" alt="" align="right">
+<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="" align="right" width="600" >
 
 <h1>   ℌ𝔦👋, ℑ'𝔪 𝔄𝔶𝔬𝔲𝔟 𝔅𝔬𝔲𝔞𝔤𝔫𝔞   </h1>
 <h3 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕 / 𝔹𝕒𝕔𝕜 𝕖𝕟𝕕 / 𝔻𝕖𝕧𝕠𝕡𝕤 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 𝕄𝕠𝕣𝕠𝕔𝕔𝕠</h3>
