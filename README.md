@@ -48,8 +48,6 @@
    <a href="https://profile.indeed.com/p/ayoubb-sl1w8jx" target="blan">
    <img src="https://img.icons8.com/?size=100&id=ehjUasU0xZbR&format=png&color=000000" width="40" height="40" alt="indeed logo"  /> 
  </a>
-    <a href="https://www.coursera.org/user/c58a7410bfb03635646dc3c40ee4976b" target="blan">
-   <img src="https://www.onlineschoolsguide.net/wp-content/uploads/Coursera.png" width="45" height="45" alt="coursera logo"  /> 
  </a>
  <p align="left"> <a href="https://www.threads.net/@hyperayoub.tech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 </div>
