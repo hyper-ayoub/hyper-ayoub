@@ -61,6 +61,22 @@
 <p align="left">
   
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+<div>
+  
+  ![Image](https://github.com/user-attachments/assets/6813495f-6b50-4c63-a47e-710adfaa5a25)
+  ![Image](https://github.com/user-attachments/assets/9be53e01-d197-42bc-84d4-0430aea55583)
+  ![Image](https://github.com/user-attachments/assets/c76463f8-3774-4d76-a89e-87c5383e1f88)
+  ![Image](https://github.com/user-attachments/assets/4a178c25-9a33-4de3-a43d-b68571238219)
+  ![Image](https://github.com/user-attachments/assets/e8274e1f-9bea-4d7a-9af6-4ffd0018b287)
+  ![Image](https://github.com/user-attachments/assets/9d27940a-57cd-4767-8e5e-27742cd6aabb)
+  ![Image](https://github.com/user-attachments/assets/aff9748f-cc03-4422-8b30-7bc88c8d1256)
+  ![Image](https://github.com/user-attachments/assets/36af6911-e1ee-479f-93dd-9f09d9da23a3)
+  ![Image](https://github.com/user-attachments/assets/9894e797-eba2-44ab-8f7a-6b11ded0e0f7)
+  ![Image](https://github.com/user-attachments/assets/94027361-c8a5-423c-95ff-39a9ce24a291)
+  ![Image](https://github.com/user-attachments/assets/43ef09f0-96ed-4016-8866-d4a631f20779)
+  ![Image](https://github.com/user-attachments/assets/d17815ab-1b98-4b2f-9c81-6d216fd5a745)
+  ![Image](https://github.com/user-attachments/assets/135c74b4-8ad1-4832-9d04-59db3d8dd19d)  
+</div>
 
 # ![snake gif](https://github.com/hyper-ayoub/hyper-ayoub/blob/output/github-contribution-grid-snake.svg)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyper-ayoub&show_icons=true&locale=en&layout=compact" alt="hyper-ayoub" /></p>
