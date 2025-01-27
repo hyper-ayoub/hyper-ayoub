@@ -20,8 +20,8 @@
 - 📄 Know about my experiences [frontend / back end / Devops]
 
 - ⚡ Fun fact **😎🧐✔💻**
-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=hyper-ayoub&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=hyper-ayoub)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayoubbouagna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayoubbouagna" height="30" width="40" /></a>
@@ -52,6 +52,7 @@
  <p align="left"> <a href="https://www.threads.net/@hyperayoub.tech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 </div>
 
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
@@ -73,7 +74,31 @@
   ![Image](https://github.com/user-attachments/assets/94027361-c8a5-423c-95ff-39a9ce24a291)
   ![Image](https://github.com/user-attachments/assets/43ef09f0-96ed-4016-8866-d4a631f20779)
   ![Image](https://github.com/user-attachments/assets/d17815ab-1b98-4b2f-9c81-6d216fd5a745)
-  ![Image](https://github.com/user-attachments/assets/135c74b4-8ad1-4832-9d04-59db3d8dd19d)  
+  ![Image](https://github.com/user-attachments/assets/135c74b4-8ad1-4832-9d04-59db3d8dd19d)
+  ![Image](https://github.com/user-attachments/assets/1ed1686f-057a-4423-bce6-9c73e4df4ff3)
+  ![Image](https://github.com/user-attachments/assets/d227a1ad-adb4-472e-97af-529b519ecbd3)
+  ![Image](https://github.com/user-attachments/assets/62a274d2-aef8-4fd7-8896-47d5ff51d0b6)
+  ![Image](https://github.com/user-attachments/assets/4bf77795-2d91-4c13-a095-133b9e65711a)
+  ![Image](https://github.com/user-attachments/assets/1de055c9-2831-483a-bc91-5ca5512b8a64)
+  ![Image](https://github.com/user-attachments/assets/c24b23a6-5618-4625-89b6-125a3ae10291)
+  ![Image](https://github.com/user-attachments/assets/33ef0509-1971-4e31-87d5-d7e3830c1a98)
+  ![Image](https://github.com/user-attachments/assets/3885ce1e-09aa-47a6-9941-8a97f38af177)
+  ![Image](https://github.com/user-attachments/assets/b07b148b-80ac-4b39-90dd-e6298568a4d9)
+  ![Image](https://github.com/user-attachments/assets/86ae0764-d20d-4fbf-b8ff-89267df21428)
+  ![Image](https://github.com/user-attachments/assets/6a66373a-0859-499b-8a52-726c39c29323)
+  ![Image](https://github.com/user-attachments/assets/9a9a24d0-b5f3-42fb-8561-2802409f3811)
+  ![Image](https://github.com/user-attachments/assets/f5aa89c9-2495-4e55-940d-e5bd2ee6dd12)
+  ![Image](https://github.com/user-attachments/assets/ee493a31-7d22-4536-aa4d-0f8b79b94310)
+  ![Image](https://github.com/user-attachments/assets/bbccd867-56bf-457d-9451-bbab7ffa347b)
+  ![Image](https://github.com/user-attachments/assets/c5fb8257-37f1-45b5-a924-d65cca0319bc)
+  ![Image](https://github.com/user-attachments/assets/bd9ded7c-d665-4577-81a4-ed37b8704e6a)
+  ![Image](https://github.com/user-attachments/assets/1690d4ba-ed83-4a2f-9d9d-40149f751508)
+  ![Image](https://github.com/user-attachments/assets/d9f298a2-1c44-493d-ab24-f05174339db3)
+  ![Image](https://github.com/user-attachments/assets/d6bd7641-a96d-4ccd-8588-39cd68c7001b)
+  ![Image](https://github.com/user-attachments/assets/0249df28-34ff-4065-8986-bc7e76b3ea6c)
+  ![Image](https://github.com/user-attachments/assets/96b44666-1e90-4750-8b12-333102371546)
+ 
+  
 </div>
 
 # ![snake gif](https://github.com/hyper-ayoub/hyper-ayoub/blob/output/github-contribution-grid-snake.svg)
