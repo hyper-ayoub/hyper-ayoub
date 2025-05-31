@@ -12,7 +12,7 @@
 
 </a>
 
-![Image](https://github.com/user-attachments/assets/01e61276-3e96-4952-9670-bffad8fdf41b)
+![Image](https://github.com/user-attachments/assets/6b6685d3-57e3-420f-b620-12a180c53751)
 👨‍💻 About Me
 
 
@@ -66,7 +66,8 @@
   
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
-[![hyper-ayoub's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyper-ayoub&theme=tokyo-night)](https://github.com/hyper-ayoub/github-readme-activity-graph)[![GitHub Streak](https://streak-stats.demolab.com?user=hyper-ayoub&theme=tokyonight)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyper-ayoub&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hyper-ayoub&theme=tokyonight)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyper-ayoub&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 
 <div>
   
@@ -134,4 +135,4 @@
 </div>
 
 # ![snake gif](https://github.com/hyper-ayoub/hyper-ayoub/blob/output/github-contribution-grid-snake.svg)
-![Image](https://github.com/user-attachments/assets/6b6685d3-57e3-420f-b620-12a180c53751)
+![Image](https://github.com/user-attachments/assets/01e61276-3e96-4952-9670-bffad8fdf41b)
