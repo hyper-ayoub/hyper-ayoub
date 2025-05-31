@@ -2,22 +2,27 @@
 
 <h1>   ℌ𝔦👋, ℑ'𝔪 𝔄𝔶𝔬𝔲𝔟 𝔅𝔬𝔲𝔞𝔤𝔫𝔞   </h1>
 <h3 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕 / 𝔹𝕒𝕔𝕜 𝕖𝕟𝕕 / 𝔻𝕖𝕧𝕠𝕡𝕤 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 𝕄𝕠𝕣𝕠𝕔𝕔𝕠</h3>
+<h1>👨‍💻 𝔖𝔬𝔣𝔱𝔴𝔞𝔯𝔢 𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯 & 𝔉𝔲𝔩𝔩 𝔖𝔱𝔞𝔠𝔨 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯</h1>
+<h1>💼𝔏𝔬𝔳𝔢 𝔚𝔢𝔟 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔪𝔢𝔫𝔱, 𝔄𝔲𝔱𝔬𝔪𝔞𝔱𝔢𝔡 𝔗𝔢𝔰𝔱𝔦𝔫𝔤, 𝖆𝖓𝖉 𝕯𝖊𝖇𝖚𝖌𝖌𝖎𝖓𝖌 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyper-ayoub&label=Profile%20views&color=0e75b6&style=flat" alt="hyper-ayoub" /> </p>
-<a href="https://linktr.ee/hyperayoub" target="_blank" ">
+<a href="https://linktr.ee/hyperayoub" target="_blank" "> <p align="left"> <a href="https://twitter.com/ayoubbouagna" target="blank"><img src="https://img.shields.io/twitter/follow/ayoubbouagna?logo=twitter&style=for-the-badge" alt="ayoubbouagna" /></a> </p>
 
 ![test](https://github.com/hyper-ayoub/hyper-ayoub/assets/133155846/825cb69c-6ab3-4fa0-b536-7895148c677e)
 
 </a>
-<p align="left"> <a href="https://twitter.com/ayoubbouagna" target="blank"><img src="https://img.shields.io/twitter/follow/ayoubbouagna?logo=twitter&style=for-the-badge" alt="ayoubbouagna" /></a> </p>
 
-- 🌱 I’m currently learning **html css javascript c Linux / shell**
+![Image](https://github.com/user-attachments/assets/01e61276-3e96-4952-9670-bffad8fdf41b)
+👨‍💻 About Me
 
-- 💬 Ask me about **frontend / back end / Devops**
+
+- 🌱 Always eager to learn and explore new technologies
+
+- 🔭 🎨 Creating innovative solutions in web development and automation
 
 - 📫 How to reach me **bouagnaayoub@gmail.com**
 
-- 📄 Know about my experiences [frontend / back end / Devops]
+- 📚 Sharing knowledge and insights through my projects and interactions
 
 - ⚡ Fun fact **😎🧐✔💻**
 - [![trophy](https://github-profile-trophy.vercel.app/?username=hyper-ayoub&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -61,7 +66,7 @@
   
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
-[![hyper-ayoub's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyper-ayoub&theme=tokyo-night)](https://github.com/hyper-ayoub/github-readme-activity-graph)
+[![hyper-ayoub's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyper-ayoub&theme=tokyo-night)](https://github.com/hyper-ayoub/github-readme-activity-graph)[![GitHub Streak](https://streak-stats.demolab.com?user=hyper-ayoub&theme=tokyonight)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyper-ayoub&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 <div>
   
@@ -129,5 +134,4 @@
 </div>
 
 # ![snake gif](https://github.com/hyper-ayoub/hyper-ayoub/blob/output/github-contribution-grid-snake.svg)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyper-ayoub&show_icons=true&locale=en&layout=compact" alt="hyper-ayoub" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyper-ayoub&show_icons=true&locale=en" alt="hyper-ayoub" /></p>
+![Image](https://github.com/user-attachments/assets/6b6685d3-57e3-420f-b620-12a180c53751)
