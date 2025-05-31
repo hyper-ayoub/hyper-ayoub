@@ -132,5 +132,9 @@
 </div>
 
 # ![snake gif](https://github.com/hyper-ayoub/hyper-ayoub/blob/output/github-contribution-grid-snake.svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hyper-ayoub&theme=tokyonight)](https://git.io/streak-stats) &nbsp;![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyper-ayoub&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<div style="display: flex; align-items: center;">
+  <img src="https://streak-stats.demolab.com?user=hyper-ayoub&theme=tokyonight" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyper-ayoub&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+</div>
+
 ![Image](https://github.com/user-attachments/assets/ed58b9ca-3fbb-4b5a-90a8-b010a05d5484)
