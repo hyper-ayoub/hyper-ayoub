@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFuYWRjeHpuaXdha2YwMjlqNHJjYmJ2OWlxazFsdDRsbW0yZXVvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="" align="right" width="600" >
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3p0bDltdG14cXViZ3dvbXJmNm5nbW8zaDhlZWtnOGR6aDM0bXV2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="" align="right" width="600" >
 
 <h1>   ℌ𝔦👋, ℑ'𝔪 𝔄𝔶𝔬𝔲𝔟 𝔅𝔬𝔲𝔞𝔤𝔫𝔞   </h1>
 <h3 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕 / 𝔹𝕒𝕔𝕜 𝕖𝕟𝕕 / 𝔻𝕖𝕧𝕠𝕡𝕤 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 𝕄𝕠𝕣𝕠𝕔𝕔𝕠</h3>
