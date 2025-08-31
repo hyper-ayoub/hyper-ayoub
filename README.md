@@ -53,7 +53,7 @@
  </a>
  <p align="left"> <a href="https://www.threads.net/@hyperayoub.tech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 </div>
-
+<img width="660" height="1464" alt="Image" src="https://github.com/user-attachments/assets/ba642ad0-0895-4275-bb8f-63cb3a17b78e" />
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
