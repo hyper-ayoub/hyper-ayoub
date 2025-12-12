@@ -140,4 +140,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyper-ayoub&show_icons=true&locale=en&layout=compact" alt="hyper-ayoub" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyper-ayoub&show_icons=true&locale=en" alt="hyper-ayoub" /></p>
 
+![Github Stats](https://greptile-stats.vercel.app/api/widget/hyper-ayoub/stats)
+
 ![Image](https://github.com/user-attachments/assets/ed58b9ca-3fbb-4b5a-90a8-b010a05d5484)
