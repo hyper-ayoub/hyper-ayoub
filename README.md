@@ -3,10 +3,10 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayoub+Bouagna;Full+Stack+Developer;DevOps+Engineer;Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayoub+Bouagna;Full+Stack+Developer;DevOps+Engineer;AI+Researcher;Cloud+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Passionate Full Stack & DevOps Developer from Morocco 🇲🇦</h3>
+<h3 align="center">🚀 Passionate Full Stack, DevOps & AI Researcher from Morocco 🇲🇦</h3>
 
 <div align="center">
   
@@ -29,7 +29,7 @@
 ```javascript
 const ayoub = {
     location: "Casablanca, Morocco 🇲🇦",
-    role: "Full Stack & DevOps Developer",
+    role: "Full Stack Developer | DevOps Engineer | AI Researcher",
     code: ["JavaScript", "Python", "PHP", "C", "C++", "C#", "Ruby", "Bash"],
     technologies: {
         frontEnd: {
@@ -43,21 +43,23 @@ const ayoub = {
         },
         devOps: ["Docker", "Jenkins", "AWS", "CI/CD"],
         databases: ["MySQL", "SQLite", "InfluxDB", "Supabase"],
+        aiml: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
         tools: ["Git", "Postman", "Selenium", "Vim"]
     },
-    currentFocus: "Building scalable web applications and automation solutions",
-    funFact: "I turn coffee into code ☕️ → 💻"
+    currentFocus: "Building scalable web applications, automation solutions, and AI-powered systems",
+    funFact: "I turn coffee into code and data into insights ☕️ → 💻 → 🤖"
 };
 ```
 
 ## 💼 Professional Highlights
 
-- 🔭 **Currently Working On**: Innovative web development and automation projects
-- 🌱 **Learning**: Cloud architecture, microservices, and AI/ML integration
-- 👯 **Open to**: Collaborate on open-source projects and innovative solutions
-- 💬 **Ask Me About**: Web development, DevOps practices, and automation
+- 🔭 **Currently Working On**: Innovative web development, automation projects, and AI/ML research
+- 🌱 **Learning**: Cloud architecture, microservices, and advanced AI/ML techniques
+- 🤖 **AI Research Focus**: Machine Learning, Deep Learning, NLP, and Computer Vision
+- 👯 **Open to**: Collaborate on open-source projects, AI research, and innovative solutions
+- 💬 **Ask Me About**: Web development, DevOps practices, automation, and AI/ML
 - 📫 **Reach Me**: [bouagnaayoub@gmail.com](mailto:bouagnaayoub@gmail.com)
-- ⚡ **Fun Fact**: I love exploring new technologies and building practical solutions
+- ⚡ **Fun Fact**: I love exploring new technologies and building practical AI-powered solutions
 
 ---
 
@@ -188,8 +190,7 @@ const ayoub = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy-bay.vercel.app/?username=hyper-ayoub&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
+  [![trophy](https://github-profile-trophy-bay.vercel.app/?username=hyper-ayoub&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -200,10 +201,6 @@ const ayoub = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyper-ayoub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-ayoub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyper-ayoub&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
@@ -226,10 +223,10 @@ const ayoub = {
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎓 Skiils
 
 <details>
-<summary>skills</summary>
+<summary>Click to view my skills</summary>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6813495f-6b50-4c63-a47e-710adfaa5a25" width="200" />
@@ -303,16 +300,6 @@ const ayoub = {
 <div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-  [![Spotify](https://novatorem-hyper-ayoub.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
   
 </div>
 
