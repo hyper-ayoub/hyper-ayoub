@@ -199,13 +199,19 @@ const ayoub = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyper-ayoub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-ayoub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+ <img height="180em"
+     src="https://github-readme-stats.zcy.dev/api?username=hyper-ayoub&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+     src="https://readme-stats-fast.vercel.app/api/top-langs/?username=hyper-ayoub&layout=compact&langs_count=8&theme=dracula"/>
+
+
 </div>
+<div> </div>
 
 <div align="center">
-  <img src="https://greptile-stats.vercel.app/api/widget/hyper-ayoub/stats" alt="Greptile Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hyper-ayoub&theme=dracula" alt="Streak Stats" />
 </div>
+
 
 ---
 
