@@ -209,9 +209,10 @@ const ayoub = {
 <div> </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hyper-ayoub&theme=dracula" alt="Streak Stats" />
-</div>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=hyper-ayoub&theme=dracula&cache_seconds=86400)
 
+</div>
 
 ---
 
