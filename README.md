@@ -233,7 +233,15 @@ const ayoub = {
   <img src="https://github.com/hyper-ayoub/hyper-ayoub/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
+## 👻 Contribution Pacman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyper-ayoub/hyper-ayoub/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyper-ayoub/hyper-ayoub/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/hyper-ayoub/hyper-ayoub/output/pacman-contribution-graph.svg">
+</picture>
+
+
 
 ## 🎓 Skiils
 
