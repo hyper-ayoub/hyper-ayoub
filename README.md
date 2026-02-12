@@ -241,7 +241,10 @@ const ayoub = {
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/hyper-ayoub/hyper-ayoub/output/pacman-contribution-graph.svg">
 </picture>
 
-
+## 🚀 Space Shooter
+<div align="center">
+<img src="https://raw.githubusercontent.com/hyper-ayoub/hyper-ayoub/main/gh-space-shooter.gif" alt="Space Shooter Game" />
+</div>
 
 ## 🎓 Skiils
 
