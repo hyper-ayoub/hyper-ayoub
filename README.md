@@ -218,7 +218,12 @@ const ayoub = {
 
 ## 📈 Contribution Graph
 
-[![hyper-ayoub's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyper-ayoub&theme=tokyo-night&hide_border=true)](https://github.com/hyper-ayoub/github-readme-activity-graph)
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hyper-ayoub&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7b2ff7&point=ff0080)](https://github.com/hyper-ayoub)
+
+</div>
+
 
 ---
 
