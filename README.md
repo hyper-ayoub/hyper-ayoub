@@ -20,6 +20,18 @@
   <a href="https://linktr.ee/hyperayoub" target="_blank">
     <img src="https://github.com/hyper-ayoub/hyper-ayoub/assets/133155846/825cb69c-6ab3-4fa0-b536-7895148c677e" alt="Link Tree" width="200"/>
   </a>
+
+  <h3><code>hyper-ayoub@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=hyper-ayoub&theme=aurora&style=terminal&label=ayoub+bouagna&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=hyper-ayoub&theme=aurora&style=terminal&label=ayoub+bouagna&mode=dark" width="100%" alt="hyper-ayoub wordmark" />
+</picture></td>
+</tr>
+</table>
 </div>
 
 ---
