@@ -246,6 +246,19 @@ const ayoub = {
 <img src="https://raw.githubusercontent.com/hyper-ayoub/hyper-ayoub/main/gh-space-shooter.gif" alt="Space Shooter Game" />
 </div>
 
+## 🐧 contributions.sh
+<div align="center">
+
+<h3><code>hyper-ayoub@github ~ $ ./contributions.sh</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=hyper-ayoub&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=hyper-ayoub&theme=aurora&style=terminal&mode=dark" width="100%" alt="hyper-ayoub heatmap" />
+</picture>
+
+</div>
+
+
 ## 🎓 Skiils
 
 <details>
